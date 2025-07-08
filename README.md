@@ -32,8 +32,7 @@ Displays a list of all customers with a search bar for filtering by first or las
 **AddCustomerPage**
 Form for entering a new customer's first name, last name, and phone number. After confirmation, options appear to add an appointment or a new wig purchase.
 
-![AddCustomerPage](https://github.com/noa4970/inventory-manager/blob/main/add_customer.png)
-
+![AddCustomerPage](https://github.com/noa4970/inventory-manager/blob/main/AddCustomerPage.png)
 **WigsListPage**
 Searchable table of all wigs in the system. Selecting a wig shows its full details. Includes a button for adding a new wig.
 
