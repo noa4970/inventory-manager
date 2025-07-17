@@ -1,0 +1,8 @@
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\משתמש\Desktop\לימודים\תכנות\פרויקט פאות WPF\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
