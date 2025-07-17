@@ -24,22 +24,27 @@ Main features:
 Screenshots and Descriptions:
 **HomePage**
 The main navigation screen of the application. From here, the user can access all major parts of the system: Customers, Wigs, Appointments, Repairs, Sales, and Settings.
+
 ![HomePage](https://github.com/noa4970/inventory-manager/blob/main/images/HomePage.png)
 
 **CustomersListPage**
 Displays a list of all customers with a search bar for filtering by first or last name. Selecting a customer leads to their detailed profile. Includes a button to add a new customer.
+
 ![CustomersListPage](https://github.com/noa4970/inventory-manager/blob/main/images/CustomersListPage.png)
 
 **AddCustomerPage**
 Form for entering a new customer's first name, last name, and phone number. After confirmation, options appear to add an appointment or a new wig purchase.
+
 ![AddCustomerPage](https://github.com/noa4970/inventory-manager/blob/main/images/AddCustomerPage.png)
 
 **WigsListPage**
 Searchable table of all wigs in the system. Selecting a wig shows its full details. Includes a button for adding a new wig.
+
 ![WigsListPage](https://github.com/noa4970/inventory-manager/blob/main/images/WigsListPage.png)
 
 **AppointmentsListPage**
 A table view of all appointments in the system. Filterable by customer name, date, or worker. Each row is clickable for more details. Includes an "Add appointment" button.
+
 ![AppointmentsListPage](https://github.com/noa4970/inventory-manager/blob/main/images/AppointmentsListPage.png)
 
 Notes:
